@@ -16,6 +16,6 @@
         <item>Spinner</item>
         <item>TextInputLayout</item>
         <item>CollapsingToolbarLayoutFragment</item>
-
+        <item>ViewPagers</item>
     </string-array>
 </resources>

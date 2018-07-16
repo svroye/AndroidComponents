@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.viewpagerlibrary">
+
+    <application>
+        <activity android:name=".ViewPagerHomeActivity"></activity>
+        <activity
+            android:name=".ViewPagerSwipeViews"
+            android:label="@string/title_activity_view_pager_swipe_views"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

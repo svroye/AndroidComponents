@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Components.iml" filepath="$PROJECT_DIR$/Components.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/coordinatorlayoutlibrary/coordinatorlayoutlibrary.iml" filepath="$PROJECT_DIR$/coordinatorlayoutlibrary/coordinatorlayoutlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerlibrary/viewpagerlibrary.iml" filepath="$PROJECT_DIR$/viewpagerlibrary/viewpagerlibrary.iml" />
     </modules>
   </component>
 </project>

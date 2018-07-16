@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.widget.Toast;
+
+import com.example.viewpagerlibrary.ViewPagerHomeActivity;
 
 import java.util.ArrayList;
 
@@ -32,9 +35,12 @@ public class MainActivity extends AppCompatActivity implements MyAdapter.OnListI
 
     @Override
     public void onItemClick(int position) {
-        if (components[position] == "CollapsingToolbarLayoutFragment") {
+        if (components[position].equals("CollapsingToolbarLayoutFragment")) {
             startActivity(new Intent(MainActivity.this,
                     com.example.coordinatorlayoutlibrary.ListActivity.class));
+        } else if(components[position].equals("ViewPagers")) {
+            startActivity(new Intent(MainActivity.this,
+                    ViewPagerHomeActivity.class));
         } else {
             Intent intent = new Intent(MainActivity.this, ComponentInfoActivity.class);
             intent.putExtra(getString(R.string.key_component_name), components[position]);

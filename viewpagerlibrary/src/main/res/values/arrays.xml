@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="viewpager_options">
+        <item>Swipe Views</item>
+        <item>Action Bar Tabs</item>
+        <item>Action Bar Spinner</item>
+    </string-array>
+</resources>

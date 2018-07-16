@@ -1,0 +1,36 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:text="Oh no, this is page 2"
+        android:textAllCaps="true"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:layout_gravity="center"
+        android:gravity="center"
+        tools:context=".ViewPagerSwipeViews$PlaceholderFragment">
+    </TextView>
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:text="Created from different fragment"
+        android:textAllCaps="true"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:layout_gravity="center"
+        android:gravity="center"
+        tools:context=".ViewPagerSwipeViews$PlaceholderFragment">
+    </TextView>
+
+</LinearLayout>
