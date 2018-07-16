@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.coordinatorlayoutlibrary">
+
+    <application>
+        <activity android:name=".ListActivity"></activity>
+        <activity
+            android:name=".DetailActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName=".ListActivity"
+            android:label="Landscape"
+            android:theme="@style/CollapseLayout"></activity>
+        <activity
+            android:name=".ScrollingActivity"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

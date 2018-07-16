@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">CoordinatorLayoutLibrary</string>
+
+    <string name="test_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt consequat diam id iaculis. Etiam at pretium nisl, vel finibus lorem. Aliquam leo felis, tincidunt vitae eros vitae, sagittis tincidunt velit. Nulla scelerisque, turpis eu faucibus luctus, dolor eros egestas eros, id interdum enim nisi ac purus. Aliquam sit amet urna a sem dictum viverra ut ut purus. Nullam magna felis, tincidunt ut eleifend vitae, dignissim a tellus. Morbi lorem dui, maximus in varius quis, lobortis nec mi. Duis lacus augue, pellentesque malesuada rhoncus vitae, mattis non leo. In hac habitasse platea dictumst. Proin quis commodo est. In hac habitasse platea dictumst. Aenean tincidunt orci ut enim pulvinar, vel eleifend lectus blandit. Maecenas at auctor nisl, sed viverra nunc. Phasellus vitae sem id ante consectetur sodales in sit amet sapien. Nunc cursus sodales libero non ultricies.
+
+Integer eu odio vitae tellus accumsan accumsan in ut diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam suscipit nunc vel sollicitudin pretium. Aenean auctor porttitor nisi, et luctus orci varius vitae. Duis commodo velit non magna ullamcorper faucibus. Pellentesque nibh purus, consequat porta blandit sit amet, interdum vitae diam. Morbi posuere suscipit ornare. Pellentesque porta posuere scelerisque. Integer risus est, pellentesque eget facilisis vitae, rutrum vel quam. Duis dictum nisi id mauris semper luctus.
+
+Sed in elit congue, aliquet elit at, ultrices lorem. Praesent feugiat in erat et tristique. Pellentesque gravida dolor tellus, et cursus arcu ullamcorper tincidunt. Nam tristique dolor sit amet erat vulputate, in tincidunt lorem mattis. Cras vulputate porta mi, nec luctus tellus iaculis eget. Sed pellentesque lectus id vulputate ultricies. Cras purus ex, finibus at sem condimentum, pharetra accumsan lectus.
+
+Vestibulum imperdiet, diam a facilisis aliquet, nisi quam tempor orci, ac molestie mauris massa vestibulum nunc. Quisque auctor euismod urna et tempus. Morbi mattis enim justo, in venenatis quam scelerisque in. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas ac augue efficitur, mollis velit at, dapibus nisl. Maecenas dolor magna, porta ultricies dui et, molestie consequat risus. Quisque elementum, dui a ullamcorper dignissim, felis nisl rhoncus tortor, eu dapibus elit quam sit amet urna. In hac habitasse platea dictumst. Nulla consequat mattis turpis eget ullamcorper.
+
+Donec ultricies venenatis vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultricies ante ut posuere ultrices. Morbi iaculis pharetra nibh nec egestas. Mauris eleifend nisi vitae sodales mollis. Proin sapien erat, mollis nec pulvinar sit amet, tristique et nisi. Cras ac ex metus. In consequat placerat libero, sit amet gravida eros. Praesent tincidunt hendrerit tortor, et imperdiet eros accumsan sit amet. Sed dui est, suscipit sit amet lacinia at, pulvinar quis leo.
+
+In eu nisi in mauris eleifend laoreet. Nullam mauris felis, varius vel iaculis ut, consequat et sapien. Curabitur iaculis nisi non urna porttitor, molestie convallis ex dapibus. Suspendisse cursus non purus vel consectetur. Ut ac scelerisque magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam erat massa, hendrerit sit amet orci quis, facilisis posuere purus. Morbi varius nisi a bibendum faucibus. Nulla facilisi. Quisque at arcu sodales, ultrices nunc sit amet, porta tellus. Integer fringilla mauris quis nisi porttitor varius. Aliquam erat volutpat. Curabitur pulvinar sit amet turpis in vehicula. Praesent varius, lectus at congue molestie, tortor sem tempor mauris, et fermentum massa nulla eu augue.
+
+Duis mi urna, vulputate molestie maximus ut, maximus quis sapien. Nulla facilisi. Aliquam in lobortis erat, at sollicitudin justo. In et magna tempus libero porttitor lacinia. Vestibulum tempor nibh mi, sit amet iaculis urna egestas id. Suspendisse arcu leo, consectetur eu dictum vitae, egestas quis turpis. Ut in laoreet libero, sed tristique turpis. Aenean ut tincidunt sem.
+
+Donec volutpat ipsum ac accumsan ultricies. Suspendisse auctor, magna non congue faucibus, mauris mi maximus odio, vitae viverra ex mi vel urna. Vestibulum elit eros, imperdiet sed sodales ac, lacinia ac magna. Etiam molestie non lorem id elementum. Vestibulum aliquam, massa sit amet sollicitudin porttitor, libero libero ornare metus, ut euismod ipsum risus tincidunt elit. Ut ac ex at lorem tincidunt mollis. Ut malesuada, tellus vitae rutrum lacinia, nunc felis molestie orci, at rutrum dolor libero ut orci. In sit amet tempor justo. Duis vitae magna nec nisi auctor convallis. Vivamus non nisl a diam molestie dictum vel ut mauris. Vivamus non vehicula metus. Vestibulum iaculis, velit non iaculis porta, libero urna auctor arcu, vel auctor elit orci venenatis orci.
+
+Fusce sodales urna at lacus scelerisque, vehicula vulputate turpis posuere. Curabitur bibendum imperdiet fermentum. Duis placerat tellus a nibh pellentesque, vitae posuere turpis condimentum. Nam at arcu augue. Pellentesque malesuada odio et viverra porta. Praesent vel auctor eros. Sed convallis varius purus, non vehicula dui malesuada facilisis. Proin suscipit, neque sit amet suscipit cursus, dui ex ultricies metus, et feugiat est sem et odio. Sed placerat quis risus ut dapibus.
+
+Mauris eget iaculis velit. Duis cursus leo magna, sed aliquet mi mollis placerat. Vestibulum porttitor turpis in sapien lobortis interdum. Ut lobortis vestibulum commodo. Proin commodo volutpat orci, id mollis erat euismod vel. Maecenas efficitur quis massa in ullamcorper. Donec euismod semper pretium. Etiam dolor mi, imperdiet a eros in, lacinia sollicitudin urna. Duis sagittis, mi at tempor ullamcorper, ligula mi sollicitudin tortor, ullamcorper hendrerit dolor purus et mi. Aliquam erat volutpat.
+
+Proin malesuada rutrum cursus. Mauris convallis vestibulum erat a dictum. Morbi tincidunt at tellus et scelerisque. Sed eget nibh a dui varius convallis. Quisque porttitor luctus tortor euismod finibus. In convallis ipsum eu magna porta, ac commodo magna bibendum. Nulla pretium faucibus ex, a ultrices leo suscipit nec. Integer placerat augue id turpis tempus, pellentesque vestibulum enim condimentum.
+
+Aliquam non nisl ultrices, consequat dolor ac, mollis erat. In ultrices quam augue, in rhoncus odio consectetur vitae. Proin sit amet euismod tortor, dictum imperdiet magna. Curabitur commodo justo a molestie venenatis. Vivamus imperdiet efficitur elit sed placerat. Aliquam dapibus turpis eros, vitae pellentesque enim tempor in. Suspendisse purus purus, iaculis at mollis at, dapibus accumsan nunc. Pellentesque nec massa in nulla semper tincidunt ut fringilla massa. Fusce iaculis leo felis, eu ultrices ligula feugiat tincidunt. Vivamus accumsan consectetur libero, sit amet molestie odio blandit et.
+
+Praesent aliquet mattis diam sed malesuada. Mauris faucibus leo non risus condimentum, vitae consectetur libero laoreet. Donec arcu velit, maximus non libero vel, pellentesque consequat nisi. Aenean imperdiet ultricies sem, eget ornare nunc tempus id. Sed eget ex neque. Vivamus pulvinar augue commodo finibus porta. Pellentesque malesuada lobortis ex sit amet tempus. Aliquam maximus arcu quam, non egestas ipsum tempor lobortis.
+
+Nulla venenatis hendrerit massa, at interdum elit. Donec finibus volutpat lorem, in auctor turpis. Cras fringilla odio sed lacus ultricies, nec viverra tellus blandit. Donec nulla augue, venenatis sodales nibh nec, consectetur dictum lacus. Morbi sed felis purus. Sed vel lacus in risus finibus condimentum. Maecenas sed turpis eu tellus sodales eleifend ultrices ac metus. Proin ac felis ante. Duis auctor molestie arcu nec dictum. In id auctor ipsum.
+
+In convallis laoreet imperdiet. Nam vitae scelerisque nibh. Sed commodo tellus volutpat eleifend viverra. Sed mattis turpis odio, a consectetur enim tincidunt faucibus. Aliquam aliquam, velit sit amet fermentum imperdiet, justo quam volutpat diam, nec venenatis est ex hendrerit erat. Morbi fermentum ornare tortor sit amet bibendum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc non tincidunt sem. Integer pellentesque massa purus, sed vulputate enim ullamcorper in. Pellentesque nec felis felis. Curabitur at congue purus. Suspendisse malesuada suscipit ornare. Donec aliquam varius odio at fermentum. Etiam consequat quam vitae nisl convallis, sed aliquet lacus fermentum. Aenean gravida orci ac eros venenatis, id ullamcorper lorem dignissim.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed malesuada sodales leo. Aliquam at dolor egestas, hendrerit ante sit amet, tristique tortor. Donec laoreet, tellus eget suscipit hendrerit, ligula quam finibus sapien, vel vehicula sapien quam et ex. Suspendisse potenti. Aliquam erat volutpat. Proin at dui a erat placerat cursus condimentum a mauris. Mauris quis mi tincidunt, consectetur purus nec, auctor risus. In ultricies massa ac velit ultricies finibus. Suspendisse potenti.
+
+Vestibulum vitae feugiat elit. Donec pellentesque odio eu sapien rhoncus faucibus ac ac enim. Nunc rutrum eget nibh vel hendrerit. Donec ac rutrum dui, et aliquam orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras congue a leo vel efficitur. Nulla facilisi. Curabitur porta pretium finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+Ut ante velit, vestibulum in sodales et, blandit in neque. Maecenas faucibus neque libero, mattis maximus leo semper a. Nunc est lectus, lacinia ac urna at, commodo porta massa. Ut sed convallis massa, quis pulvinar odio. Donec in elit elementum, placerat lectus blandit, placerat massa. Praesent porttitor vel massa faucibus dictum. Vivamus et sollicitudin elit, id consectetur ipsum. Cras convallis ex in ligula semper, sed tempus arcu malesuada. Donec nunc dui, ullamcorper at arcu id, tempus tristique nunc. Nullam in sapien libero. In quis mauris ullamcorper, ultricies quam et, elementum erat. Sed sit amet justo erat. Sed luctus accumsan massa vel consectetur. Suspendisse potenti. Duis lobortis quis erat eget porttitor.
+
+Donec porttitor ipsum vitae ultricies dignissim. Quisque faucibus enim at erat lacinia euismod. Suspendisse ut fringilla justo. Morbi condimentum dictum mauris. Duis vitae dui placerat, pretium nunc eget, efficitur eros. Suspendisse posuere ac turpis a iaculis. Vestibulum pretium odio quis nibh pulvinar, ac vestibulum turpis dapibus.
+
+Maecenas ultrices vestibulum maximus. Nam egestas sit amet nisl sed auctor. Donec eu semper orci. Proin tellus quam, pulvinar in mi eget, efficitur volutpat urna. Quisque nibh dui, placerat sit amet turpis at, consectetur viverra ex. Suspendisse potenti. Nam vitae dignissim tortor. Etiam mollis augue vitae hendrerit posuere. Vivamus cursus molestie sapien, sit amet lacinia mi. Phasellus nibh felis, dictum sed convallis a, rhoncus eget leo. Aliquam eget augue ipsum.</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

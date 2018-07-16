@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets">
+        <item>Mercurius</item>
+        <item>Venus</item>
+        <item>Aarde</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+    </string-array>
+
+    <string-array name="components_names">
+        <item>Floating Action Button</item>
+        <item>Spinner</item>
+        <item>TextInputLayout</item>
+        <item>CollapsingToolbarLayoutFragment</item>
+
+    </string-array>
+</resources>
